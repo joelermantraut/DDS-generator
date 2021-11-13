@@ -25,7 +25,7 @@ Circuit is separated in five parts, to explain each one in detailed.
 
  - Purple box: An amplifier to reach voltage level desired, and a to separate load from circuit.
 
- - Black box. DAC outputs always positive values, so a capacitor to filter DC voltage is added.
+ - Black box: DAC outputs always positive values, so a capacitor to filter DC voltage is added.
 
 # About code
 
